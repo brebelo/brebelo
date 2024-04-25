@@ -1,6 +1,6 @@
 # Bienvenue sur le profil GitHub de Brandon Rebelo 👋
 
-Salut ! Je m'appelle Brandon Rebelo, j'ai 22 ans et je suis passionné par la programmation. Actuellement, je me prépare pour la piscine de l'école 42 du Havre, une expérience intense et immersive dans le monde de la programmation.
+Salut ! Je m'appelle Brandon Rebelo, j'ai 23 ans et je suis passionné par la programmation. Actuellement, je me prépare pour la piscine de l'école 42 du Havre, une expérience intense et immersive dans le monde de la programmation.
 
 ## À propos de moi
 
