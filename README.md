@@ -8,7 +8,7 @@
 
 ## 🤖 Projet actuel : bras robotique articulé
 
-🔗 [articular_arm_mark1](https://github.com/brebelo/articular_arm_mark1) – *en cours*
+🔗 [CartoBotMK1](https://github.com/brebelo/CartoBot-MK1) – *en cours*
 
 - Design 3D / mécanique  
 - Contrôle des moteurs pas-à-pas  
