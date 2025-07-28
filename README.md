@@ -26,7 +26,7 @@
 ## 📬 Me contacter
 
 📫 brandonrebelopro@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/brandonrebelo) *(à mettre à jour si besoin)*
+🔗 [LinkedIn](https://www.linkedin.com/in/brandonrebelo)
 
 ---
 
