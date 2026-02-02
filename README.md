@@ -8,7 +8,7 @@
 
 ---
 
-## 🤖 Projet actuel : bras robotique articulé
+## 🤖 Projet actuel : Phases de la Lune 🌛
 
 🔗[(https://github.com/brebelo/moon-phases-ascii/tree/master)] – *en cours*
 
