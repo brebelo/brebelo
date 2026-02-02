@@ -4,7 +4,7 @@
 🔧 En reconversion professionnelle, je me forme activement en programmation et en cyber. 
 🌱 En projet : 
 - construction d’un **bras robotisé** open-source, de l’idée à la fabrication
-- creation d'un jeu street fighter 2d pixel art, incluant mes amis en personage joueurs. 
+- creation d'un petit outil CLI utilisable partout sur un terminal windows, qui calcule et affiche les phases de la Lune :)
 
 ---
 
