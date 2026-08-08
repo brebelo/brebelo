@@ -8,9 +8,9 @@
 - construction d’un **mini-lanceur propulsé en carton** open-source, de l’idée à la fabrication
 ---
 
-## 🤖 Projet actuel : Phases de la Lune 🌛
+## Projet actuel : Lecteur de logs industriel
 
-🔗[([https://github.com/brebelo/moon-phases-ascii/tree/master](https://github.com/brebelo/logviewer))] – *en cours*
+[Logviewer](https://github.com/brebelo/logviewer) – *en cours*
 
 ---
 
