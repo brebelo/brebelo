@@ -10,7 +10,7 @@
 
 ## 🤖 Projet actuel : Phases de la Lune 🌛
 
-🔗[(https://github.com/brebelo/moon-phases-ascii/tree/master)] – *en cours*
+🔗[([https://github.com/brebelo/moon-phases-ascii/tree/master](https://github.com/brebelo/logviewer))] – *en cours*
 
 ---
 
